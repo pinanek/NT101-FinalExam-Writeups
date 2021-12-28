@@ -59,4 +59,4 @@
 
   ![proof-flag.png](images/proof-flag.png)
 
-> Flag: Wanna.One{nqu0j_cu4_c0nq_ckunq_pk4j_dj_v40_10nq_nqu0j,_cku_dunq_dj_v40_10nq_d4t}
+> Flag: Wanna.One{nqu0j_cu4_c0nq_ckunq_pk4j_dj_v40_10nq_nqu0j,_cku_dunq_dj_v40_l0nq_d4t}
