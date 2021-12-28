@@ -37,6 +37,8 @@
 
 - Quét folder `tiki` với tài khoản chứng thực trên, thấy có file `CHANGELOG.TXT`, ta có thể tìm thấy version của `tiki` ở đây, và version là `15.1`
 
+  ![burpsuite.png](images/burpsuite.png)
+
   ![dirseach-tiki.png](images/dirseach-tiki.png)
 
   ![tiki-version.png](images/tiki-version.png)
