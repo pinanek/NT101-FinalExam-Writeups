@@ -47,7 +47,7 @@
 
 - Tìm và thấy được cách để exploit machine local: https://github.com/ivanitlearning/Tiki-Wiki-15.1-unrestricted-file-upload/blob/master/tikiwiki_15.1_RCE.py
 
-  - Đầu tiên ta sẽ truy cập vào file 
+  - Đầu tiên ta sẽ truy cập vào file
 
   ![upload-url.png](images/upload-url.png)
 
@@ -58,7 +58,6 @@
   ![check-command.png](images/check-command.png)
 
   ![check-command-success.png](images/check-command-success.png)
-
 
 - Vậy ta sẽ tìm file local.txt, như hình trên thì đang ở ổ `C:`, ta sẽ trở về root tại `C:` và tìm với câu lệnh:
 

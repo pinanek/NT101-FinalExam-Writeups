@@ -33,7 +33,7 @@
 
   ![local-flag.png](images/local-flag.png)
 
-> Flag: Wanna.One{@n_kh0ng_du@c_th1_01_r@_ph@i_kh0ng}
+> Flag: Wanna.One{@n_kh0ng_du@c_th1_01_r@\_ph@i_kh0ng}
 
 ## Proof
 
@@ -59,4 +59,4 @@
 
   ![proof-flag.png](images/proof-flag.png)
 
-> Flag: Wanna.One{nqu0j_cu4_c0nq_ckunq_pk4j_dj_v40_10nq_nqu0j,_cku_dunq_dj_v40_l0nq_d4t}
+> Flag: Wanna.One{nqu0j_cu4_c0nq_ckunq_pk4j_dj_v40_10nq_nqu0j,\_cku_dunq_dj_v40_l0nq_d4t}
