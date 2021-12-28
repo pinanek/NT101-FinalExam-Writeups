@@ -2,4 +2,4 @@
 
 - [Alpha Machine](Alpha)
 
-- [Kevin Machine](Alpha)
+- [Kevin Machine](Kevin)
