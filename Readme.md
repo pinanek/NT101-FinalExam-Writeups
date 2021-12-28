@@ -1,4 +1,4 @@
-# NT101-FinalExam
+# NT101-FinalExam-Writeups
 
 - [Alpha Machine](Alpha)
 
